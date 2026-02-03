@@ -1,7 +1,9 @@
-import React from 'react';
-const App=()=>{
-  return(
-    <div className="text-3xl font-bold text-center mt-10">Hello  ugyfdj guys</div>
-  )
-}
+import React from "react";
+const App = () => {
+  return (
+    <div className="text-3xl font-bold text-center mt-10">
+      Hello hifxe guys my friends
+    </div>
+  );
+};
 export default App;
