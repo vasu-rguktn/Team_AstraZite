@@ -2,7 +2,7 @@ import React from "react";
 const App = () => {
   return (
     <div className="text-3xl font-bold text-center mt-10">
-      Hello hifxe guys my friends
+      Hello hifxe my friends
     </div>
   );
 };
