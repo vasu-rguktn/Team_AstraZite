@@ -1,0 +1,8 @@
+# Ignore dataset folders
+ai_microplastic/
+dataset/
+MicroPlastic/
+
+# Ignore dataset zip files
+*.zip
+
